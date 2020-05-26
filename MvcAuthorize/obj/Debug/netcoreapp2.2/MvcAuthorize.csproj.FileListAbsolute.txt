@@ -1,0 +1,13 @@
+E:\Research\MvcAuthorize\MvcAuthorize\bin\Debug\netcoreapp2.2\MvcAuthorize.deps.json
+E:\Research\MvcAuthorize\MvcAuthorize\bin\Debug\netcoreapp2.2\MvcAuthorize.runtimeconfig.json
+E:\Research\MvcAuthorize\MvcAuthorize\bin\Debug\netcoreapp2.2\MvcAuthorize.runtimeconfig.dev.json
+E:\Research\MvcAuthorize\MvcAuthorize\bin\Debug\netcoreapp2.2\MvcAuthorize.dll
+E:\Research\MvcAuthorize\MvcAuthorize\bin\Debug\netcoreapp2.2\MvcAuthorize.pdb
+E:\Research\MvcAuthorize\MvcAuthorize\obj\Debug\netcoreapp2.2\MvcAuthorize.csproj.CoreCompileInputs.cache
+E:\Research\MvcAuthorize\MvcAuthorize\obj\Debug\netcoreapp2.2\MvcAuthorize.RazorAssemblyInfo.cache
+E:\Research\MvcAuthorize\MvcAuthorize\obj\Debug\netcoreapp2.2\MvcAuthorize.RazorAssemblyInfo.cs
+E:\Research\MvcAuthorize\MvcAuthorize\obj\Debug\netcoreapp2.2\MvcAuthorize.AssemblyInfoInputs.cache
+E:\Research\MvcAuthorize\MvcAuthorize\obj\Debug\netcoreapp2.2\MvcAuthorize.AssemblyInfo.cs
+E:\Research\MvcAuthorize\MvcAuthorize\obj\Debug\netcoreapp2.2\MvcAuthorize.RazorTargetAssemblyInfo.cache
+E:\Research\MvcAuthorize\MvcAuthorize\obj\Debug\netcoreapp2.2\MvcAuthorize.dll
+E:\Research\MvcAuthorize\MvcAuthorize\obj\Debug\netcoreapp2.2\MvcAuthorize.pdb
